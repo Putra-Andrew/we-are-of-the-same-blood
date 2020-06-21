@@ -1,0 +1,28 @@
+.teacher {
+    width: 320px;
+}
+
+p:nth-child(-n+6) {
+    font-family: "Montserrat";
+}
+
+/* 
+.icon-check {
+    im
+} */
+
+.teacher {
+    width: 280px;
+}
+
+
+.line::after {
+    content: '';
+    display: block;
+    width: 27px;
+    height: 2px;
+    background-color: #111517;
+    margin: 0 auto;
+    margin-top: 31px;
+    margin-bottom: 92px;
+}
